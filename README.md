@@ -30,3 +30,10 @@ git push
 
 3. 开启 GitHub Pages 功能, 或者，把生成的目标文件```public/*```放在你的web服务器上。
 
+## 实际效果地址
+https://www.sitexa.org/anires/public
+
+## 技术和启发来自
+http://strml.net/
+
+
